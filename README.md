@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Luca 👋
+
+I'm student at 42 Lyon :computer:
 
 [![ludebion's 42 stats](https://badge.mediaplus.ma/binary/ludebion?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
